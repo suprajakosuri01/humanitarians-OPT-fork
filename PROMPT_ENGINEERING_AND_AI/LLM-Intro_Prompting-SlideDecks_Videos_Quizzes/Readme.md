@@ -44,6 +44,8 @@ This project is dedicated to developing an educational suite focusing on the fun
 - Designed to test comprehension and reinforce learning from the slide decks and videos.
 ## [LinkToViewQuizQuestionsOn_LargeLanguageModels & PromptPatterns](https://docs.google.com/presentation/d/1xZTMcSTy32WHeuCRdtgiFWj9yUYtkUo6oX_PrzNAPXU/edit#slide=id.p)
 
+## [LinkToViewQuizQuestionsOn_LargeLanguageModels & PromptPatterns](https://docs.google.com/document/d/1L61tCt3Zbpvp525qy8ozU_aXOvM34ii03U_wLsfaUjQ/edit)
+
 
 ### **Use Cases and Real-World Applications**
 - Highlights practical application of  Different Promt Patterns with ChatGPt Interaction, enhancing theoretical knowledge with industry insights.
@@ -58,13 +60,14 @@ This project is dedicated to developing an educational suite focusing on the fun
 ### **Introduction to Understanding Gen AI**
 #### Slide Decks
 #### Topics topics covered 
--Generative AI: Foundations and Use Cases
--Before Transformers: Evolution of Text Generation
--Deep Dive into Transformer Architecture
--Generating Text with Transformers
--Lifecycle of a Generative AI Project
--Quiz questions
--References
+
+- Generative AI: Foundations and Use Cases
+- Before Transformers: Evolution of Text Generation
+- Deep Dive into Transformer Architecture
+- Generating Text with Transformers
+- Lifecycle of a Generative AI Project
+- Quiz questions
+- References
 ## [LinkToLearn about Gen AI](https://docs.google.com/document/d/1FZ3jLeNEbSGRlNr41X-SYt_TS6v1QFg8pK6zSGnbDak/edit)
 
 ## [Educational Video to learn about Gen AI](https://www.youtube.com/watch?v=G2fqAlgmoPo&ab_channel=GoogleCloudTech)
