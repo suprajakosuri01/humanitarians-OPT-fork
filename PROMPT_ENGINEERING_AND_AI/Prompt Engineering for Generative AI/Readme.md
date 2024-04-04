@@ -3,7 +3,7 @@
 ## Project Overview
 This project is dedicated to developing an educational suite focusing on the fundamentals of Large Language Models (LLM) and their application in prompt engineering. Through engaging slide decks, informative videos, and interactive quizzes, we aim to enhance understanding and foster practical skills in utilizing LLMs.
 
-# [LinkToViewProjectPlanning](https://github.com/users/parthasarathydNU/projects/1)
+# [Link To View Project Planning](https://github.com/users/parthasarathydNU/projects/1)
 
 # LLM Introduction and Prompting: Slide Decks, Videos, and Quizzes
 
@@ -23,7 +23,7 @@ This project is dedicated to developing an educational suite focusing on the fun
 - What are Large Language Models? Randomness in Output
 -  Detailed explanations and visual walkthroughs complement
 
-## [LinkToLearnAboutLLMs](https://docs.google.com/presentation/d/1cF-00-_psdNJseEraGWCCUKvXON-ce7k5T7mTK5fZSQ/edit#slide=id.g2c121413019_0_56)
+## [Link To Learn About LLMs](https://docs.google.com/presentation/d/1cF-00-_psdNJseEraGWCCUKvXON-ce7k5T7mTK5fZSQ/edit#slide=id.g2c121413019_0_56)
 
 ### **Introduction to Prompting**
 #### Slide Decks
@@ -38,24 +38,24 @@ This project is dedicated to developing an educational suite focusing on the fun
 - Learn More About Prompt Patterns
 - Introducing New Information to the Large Language Model Prompt Size Limitations
 - Detailed explanations and visual walkthroughs complementing the slide deck topics
-## [LinkToLearnPromptPatterns](https://docs.google.com/presentation/d/1pueZ3P25Oqwlm69-C7HP5qQjXKKqfNRMfwEEWWzhBZk/edit#slide=id.g2c124c4ef92_0_175)
+## [Link To Learn Different Prompt Patterns](https://docs.google.com/presentation/d/1pueZ3P25Oqwlm69-C7HP5qQjXKKqfNRMfwEEWWzhBZk/edit#slide=id.g2c124c4ef92_0_175)
 
 #### **Interactive Quizzes**
 - Designed to test comprehension and reinforce learning from the slide decks and videos.
-## [LinkToViewQuizQuestionsOn_LargeLanguageModels & PromptPatterns](https://docs.google.com/presentation/d/1xZTMcSTy32WHeuCRdtgiFWj9yUYtkUo6oX_PrzNAPXU/edit#slide=id.p)
+## [Link To View Quiz Questions On Large Language Models](https://docs.google.com/presentation/d/1xZTMcSTy32WHeuCRdtgiFWj9yUYtkUo6oX_PrzNAPXU/edit#slide=id.p)
 
-## [LinkToViewQuizQuestionsOn_LargeLanguageModels & PromptPatterns](https://docs.google.com/document/d/1L61tCt3Zbpvp525qy8ozU_aXOvM34ii03U_wLsfaUjQ/edit)
+## [Link To View Quiz Questions On Large Languag eModels & Prompt Patterns](https://docs.google.com/document/d/1L61tCt3Zbpvp525qy8ozU_aXOvM34ii03U_wLsfaUjQ/edit)
 
 
 ### **Use Cases and Real-World Applications**
 - Highlights practical application of  Different Promt Patterns with ChatGPt Interaction, enhancing theoretical knowledge with industry insights.
   
-## [LinkToViewDifferentPromtPatterns with ChatGPt Interaction](https://docs.google.com/document/d/16pKaAONgvsCgLn1GQo1D5ZBB5tCjA9_2ctoJ4Nhqze4/edit)
+## [Link To View Different Promt Patterns with ChatGPt Interaction](https://docs.google.com/document/d/16pKaAONgvsCgLn1GQo1D5ZBB5tCjA9_2ctoJ4Nhqze4/edit)
 
 ### **References and Further Reading**
 - A compilation of resources for deep dives into LLM technologies and prompt engineering practices.
   
-## [LinkToViewReferences](https://docs.google.com/presentation/d/1YGPO3b1hZG3sgqb82bhxQampwfQP3vOi4rL0Ss7R_Rw/edit#slide=id.p)
+## [Link To View References](https://docs.google.com/presentation/d/1YGPO3b1hZG3sgqb82bhxQampwfQP3vOi4rL0Ss7R_Rw/edit#slide=id.p)
 
 ### **Introduction to Understanding Gen AI**
 #### Slide Decks
@@ -68,11 +68,14 @@ This project is dedicated to developing an educational suite focusing on the fun
 - Lifecycle of a Generative AI Project
 - Quiz questions
 - References
-## [LinkToLearn about Gen AI](https://docs.google.com/document/d/1FZ3jLeNEbSGRlNr41X-SYt_TS6v1QFg8pK6zSGnbDak/edit)
+## [Link To Learn about Gen AI](https://docs.google.com/document/d/1FZ3jLeNEbSGRlNr41X-SYt_TS6v1QFg8pK6zSGnbDak/edit)
+
 
 ## [Educational Video to learn about Gen AI](https://www.youtube.com/watch?v=G2fqAlgmoPo&ab_channel=GoogleCloudTech)
 
-## [LinkToViewQuizQuestionsOnGenAI](https://docs.google.com/document/d/1o-FkG6Uip7Fo7CmNPrk62pXFOf-gjK2t5rz0M1idEy4/edit)
 
-## [LinkToViewReferencestoLearnAboutGenAi](https://docs.google.com/presentation/d/1YGPO3b1hZG3sgqb82bhxQampwfQP3vOi4rL0Ss7R_Rw/edit#slide=id.p)
+## [Link To View Quiz Questions On GenAI](https://docs.google.com/document/d/1o-FkG6Uip7Fo7CmNPrk62pXFOf-gjK2t5rz0M1idEy4/edit)
+
+
+## [Link To View References to Learn About GenAi](https://docs.google.com/presentation/d/1YGPO3b1hZG3sgqb82bhxQampwfQP3vOi4rL0Ss7R_Rw/edit#slide=id.p)
 
