@@ -44,7 +44,7 @@ This project is dedicated to developing an educational suite focusing on the fun
 - Designed to test comprehension and reinforce learning from the slide decks and videos.
 ## [Link To View Quiz Questions On Large Language Models](https://docs.google.com/presentation/d/1xZTMcSTy32WHeuCRdtgiFWj9yUYtkUo6oX_PrzNAPXU/edit#slide=id.p)
 
-## [Link To View Quiz Questions On Large Languag eModels & Prompt Patterns](https://docs.google.com/document/d/1L61tCt3Zbpvp525qy8ozU_aXOvM34ii03U_wLsfaUjQ/edit)
+## [Link To View Quiz Questions On Large Language Models & Prompt Patterns](https://docs.google.com/document/d/1L61tCt3Zbpvp525qy8ozU_aXOvM34ii03U_wLsfaUjQ/edit)
 
 
 ### **Use Cases and Real-World Applications**
