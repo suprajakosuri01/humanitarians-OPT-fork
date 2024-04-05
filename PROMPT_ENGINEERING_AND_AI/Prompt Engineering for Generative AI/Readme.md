@@ -3,7 +3,7 @@
 ## Project Overview
 This project is dedicated to developing an educational suite focusing on the fundamentals of Large Language Models (LLM) and their application in prompt engineering. Through engaging slide decks, informative videos, and interactive quizzes, we aim to enhance understanding and foster practical skills in utilizing LLMs.
 
-# [Link To View Project Planning](https://github.com/users/parthasarathydNU/projects/1)
+## [Link To View Project Planning](https://github.com/users/parthasarathydNU/projects/1)
 
 # LLM Introduction and Prompting: Slide Decks, Videos, and Quizzes
 
@@ -40,13 +40,6 @@ This project is dedicated to developing an educational suite focusing on the fun
 - Detailed explanations and visual walkthroughs complementing the slide deck topics
 ## [Link To Learn Different Prompt Patterns](https://docs.google.com/presentation/d/1pueZ3P25Oqwlm69-C7HP5qQjXKKqfNRMfwEEWWzhBZk/edit#slide=id.g2c124c4ef92_0_175)
 
-#### **Interactive Quizzes**
-- Designed to test comprehension and reinforce learning from the slide decks and videos.
-## [Link To View Quiz Questions On Large Language Models](https://docs.google.com/presentation/d/1xZTMcSTy32WHeuCRdtgiFWj9yUYtkUo6oX_PrzNAPXU/edit#slide=id.p)
-
-## [Link To View Quiz Questions On Large Language Models & Prompt Patterns](https://docs.google.com/document/d/1L61tCt3Zbpvp525qy8ozU_aXOvM34ii03U_wLsfaUjQ/edit)
-
-
 ### **Use Cases and Real-World Applications**
 - Highlights practical application of  Different Promt Patterns with ChatGPt Interaction, enhancing theoretical knowledge with industry insights.
   
@@ -74,8 +67,5 @@ This project is dedicated to developing an educational suite focusing on the fun
 ## [Educational Video to learn about Gen AI](https://www.youtube.com/watch?v=G2fqAlgmoPo&ab_channel=GoogleCloudTech)
 
 
-## [Link To View Quiz Questions On GenAI](https://docs.google.com/document/d/1o-FkG6Uip7Fo7CmNPrk62pXFOf-gjK2t5rz0M1idEy4/edit)
-
-
-## [Link To View References to Learn About GenAi](https://docs.google.com/presentation/d/1YGPO3b1hZG3sgqb82bhxQampwfQP3vOi4rL0Ss7R_Rw/edit#slide=id.p)
+## [Link To View References to Learn About GenAI](https://docs.google.com/presentation/d/1YGPO3b1hZG3sgqb82bhxQampwfQP3vOi4rL0Ss7R_Rw/edit#slide=id.p)
 
