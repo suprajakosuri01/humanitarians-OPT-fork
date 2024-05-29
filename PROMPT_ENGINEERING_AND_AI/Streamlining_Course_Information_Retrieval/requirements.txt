@@ -1,0 +1,9 @@
+streamlit
+openai
+langchain
+langchain-openai
+langchain-pinecone
+PyPDF
+pinecone-client
+langchain-community
+docx2txt
