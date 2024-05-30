@@ -103,7 +103,7 @@ This project is dedicated to developing an educational suite focusing on the fun
 
 ## [Link To View Quiz Questions On  Retrieval-Augmented Generation(RAG)](https://docs.google.com/document/d/1rKqjqh2svLgUyUHOSHJsH4Mt9sRJOVSeGyo1T8WNEkU/edit)
 
-## [Educational Video to learn about Vector Databases](https://youtu.be/T-D1OfcDW1M?si=J_bm6bjfv_ySpYBT)
+## [Educational Video to learn about Retrieval-Augmented Generation(RAG)](https://youtu.be/T-D1OfcDW1M?si=J_bm6bjfv_ySpYBT)
 
 ## [Link to view Building a RAG application from scratch using Python, LangChain, and the OpenAI API](https://youtu.be/BrsocJb-fAo?si=xlMGJTprRfAuIh0I)
 
